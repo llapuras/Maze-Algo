@@ -6,6 +6,6 @@ A collection of maze generation algorithm (Houdini .ver).
 
 ![](MazePrim/algo_prim.gif)
 
-### First Depth
+### Depth-First Search 
 
 ![](MazeFirstDepth/maze_first_depth.gif)
