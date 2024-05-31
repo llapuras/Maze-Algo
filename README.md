@@ -1,5 +1,5 @@
 # Maze Algo
- A collection of maze generation algorithm.
+ A collection of maze generation algorithm (Houdini .ver).
 
 ### Prim's algorithm
 
