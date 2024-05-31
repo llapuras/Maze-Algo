@@ -1,4 +1,4 @@
 # Maze Algo
  A collection of maze generation algorithm.
 
-![](/algo_prim.gif)
+![](algo_prim.gif)
