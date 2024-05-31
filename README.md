@@ -2,7 +2,7 @@
 
 A collection of maze generation algorithm (Houdini .ver).
 
-### Prim's algorithm
+### Prim's Algorithm
 
 ![](MazePrim/algo_prim.gif)
 
