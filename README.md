@@ -8,6 +8,6 @@ A collection of maze generation algorithm (Houdini .ver).
 
 ### Depth-First Search 
 
-![](MazeFirstDepth/maze_first_depth.gif)
-
 ![](MazeFirstDepth/maze_first_depth_2.gif)
+
+![](MazeFirstDepth/maze_first_depth.gif)
